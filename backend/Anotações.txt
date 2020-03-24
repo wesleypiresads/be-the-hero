@@ -1,0 +1,31 @@
+/* Instalar o nodemon para não precisar ficar reiniciando a aplicação para atualizar
+* Depois de instalar no nodemon, precisa ser configurado no arquivo package.json
+* Comando para instalar o nodemon com script de fase de desenvolvimento (npm install nodemon -D)
+* Para iniciar o servidor agora basta digitar (npm start)
+*/
+/**
+ * Tipos de parametros:
+ * Query Params: Parâmetros nomeados enviados na rota após "?" (Filtros, paginação)
+ * Route Params: Parâmetros utilizados para identificar recusros
+ * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+ * 
+ */
+/**
+ * Vamos instalar a biblioteca knex para fazer a conexão com SQLite (npm install knex)
+ * Mas a biblioteca knext tem driver para outros banco de dados com SQL, Postgres (npm install sqlite3)
+ * Basta pesquisar no site da biblioteca...
+ * Vamos executar um pacoto com (npx knex init), com esse comando é gerado um arquivo
+ * de configuração para a conexão com o banco
+ */
+
+ /*
+* Vamos trabalhar com migrations que faz parte da biblioteca knex.
+* Para instalar a migrations (npx knex migrate:make create_ongs)
+* Para gerar as tabelas é preciso executar: npx knex migrate:latest
+* Caso queira desfazer alguma tabela é so executar: npx knex migrate:rollback
+* Caso queira saber todas as opções é só executar: npx knex
+ */
+
+ /*
+ * modulo cors = npm install cors
+ */
