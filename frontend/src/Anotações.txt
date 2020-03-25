@@ -1,0 +1,19 @@
+Para inicir o servidor do ReactJS -> npm start
+
+Conceitos ReactJS:
+
+Um componente em ReactJS é uma função javascript que retorna: html, css e javascript;
+JSX em ReactJS é quando o html está integrado dentro do javascript;
+Em ReactJS as propriedades podem ser passada dentro do arquivo App.js;
+Verificar o conceito de estado e imutabilidade em ReactJS;
+
+Quando for criar um componente no ReactJS sempre inicir com letra maiúscula ex: Header.js;
+
+
+Caso queira usar um pacote de icones do ReactJS é so instalar com: npm install react-icons
+Após instalação você precisa importar o pacote ex: import {} from 'react-icons/fi';
+
+Para configurar rotas no ReactJS é necessário instalar um pacote que se chama:
+npm install react-router-dom
+
+Vamos usar um cliente http para fazer a chamada em nosso backend: npm install axios
