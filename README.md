@@ -1,4 +1,4 @@
-#  Semana OmniStack 11.0
+#  Semana OmniStack 11.0 [Rocketseat](https://rocketseat.com.br/)
 
 ## Aplicação - Be The Hero
 > Desenvolvimento de uma aplicação completo, no backend, frontend e mobile.
@@ -7,4 +7,7 @@
 
 * NodeJS
 * ReactJS
-* React Native 
+* React Native
+
+<strong>Autor</strong>
+(https://www.linkedin.com/in/wesley-rosa-pires-23a05669/)
