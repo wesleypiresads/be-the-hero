@@ -1,4 +1,5 @@
-#  Semana OmniStack 11.0 [Rocketseat](https://rocketseat.com.br/)
+#  Semana OmniStack 11.0 [Rocketseat](https://rocketseat.com.br/) ![rocketset](https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f680.png)
+
 
 ## Aplicação - Be The Hero
 > Desenvolvimento de uma aplicação completo, no backend, frontend e mobile.
