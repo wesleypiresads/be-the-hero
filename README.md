@@ -9,5 +9,5 @@
 * ReactJS
 * React Native
 
-<strong>Autor</strong>
-(https://www.linkedin.com/in/wesley-rosa-pires-23a05669/)
+<strong>Autor:</strong>
+- [Wesley Pires](https://www.linkedin.com/in/wesley-rosa-pires-23a05669/)
