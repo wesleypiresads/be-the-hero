@@ -1,3 +1,9 @@
-#  **Semana OmniStack 11.0**
-## be-the-hero
-### NodeJS, ReactJS, React Native 
+#  Semana OmniStack 11.0
+
+## Aplicação desenvolvida - be-the-hero
+
+### Tecnologias:
+
+* NodeJS
+* ReactJS
+* React Native 
